@@ -10,7 +10,10 @@
   flex-direction: column;
   justify-content: space-between;
 }
-
+.cc-bg svg > mask{
+  width: 30px;
+  height: 30px;
+}
 .cc-logo {
   display: flex;
   justify-content: space-between;
